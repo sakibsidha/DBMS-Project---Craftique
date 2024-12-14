@@ -1,6 +1,9 @@
 # Craftique - eCommerce Website Database Project
 
-This repository contains the MySQL database design and implementation for an eCommerce website. The project is part of a DBMS lab assignment, built using **MySQL** and managed via **XAMPP phpMyAdmin**. This was done as a team effort, here is the team info:
+This repository contains the MySQL database design and implementation for an eCommerce website. The project is part of a DBMS lab assignment, built using **MySQL** and managed via **XAMPP phpMyAdmin**.
+
+---
+This was done as a team effort, here is the team info:
 
 **Team Laughter Crew**
 - Ramesha Rawnok Haque (ID: 1665)
@@ -8,6 +11,14 @@ This repository contains the MySQL database design and implementation for an eCo
 - Most. Sumaiya Islam Sithi (ID: 1915)
 - Fahmida Akter Juthi (ID: 1926)
 - Hafijur Rahman (ID: 1620)
+
+---
+
+The project is submitted to:
+
+MD Shah Jalal
+Senior Lecturer
+Department of CSE, Daffodil International University
 
 ---
 
