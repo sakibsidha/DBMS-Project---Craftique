@@ -69,7 +69,6 @@ Follow these steps to set up the database on your local machine:
 1. **Clone the Repository**:
    ```bash
    git clone <repository_url>
-   cd ecommerce-database
    ```
 
 2. **Start XAMPP**:
