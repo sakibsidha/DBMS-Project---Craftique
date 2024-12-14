@@ -48,11 +48,10 @@ The database consists of multiple tables to support the functionality of the eCo
 ### 4. `orders`
 - Tracks user orders and their statuses.
 
-### 5. `order_items`
-- Stores details of products included in each order.
-
-### 6. `payments`
+### 5. `payments`
 - Records payment details for orders.
+
+and many more! </br>
 
 There are total of 17 tables, 20+ procedures, 20+ triggers and 20+ views in the project. The project report demostrate them.
 
