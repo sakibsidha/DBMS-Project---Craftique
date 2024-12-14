@@ -96,18 +96,12 @@ Contributions are welcome! If you'd like to improve the database schema or add f
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more information.
-
----
-
 ## Contact
 
 For questions or support, please reach out:
 
 - **Author**: sakibsidha
-- **Email**: [sakib22205101951@diu.edu.bd]
+- **Email**: sakib22205101951@diu.edu.bd
 - **University**: Daffodil International University
 
 ---
