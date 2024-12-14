@@ -59,8 +59,8 @@ Follow these steps to set up the database on your local machine:
 
 3. **Import the Database**:
    - Open `phpMyAdmin` in your browser (usually at `http://localhost/phpmyadmin`).
-   - Create a new database (e.g., `ecommerce_db`).
-   - Import the `ecommerce_db.sql` file from this repository.
+   - Create a new database (e.g., `ems`).
+   - Import the `ems.sql` file from this repository.
 
 4. **Verify the Tables**:
    - Ensure all tables are created successfully with the required schema.
