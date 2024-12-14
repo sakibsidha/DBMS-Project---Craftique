@@ -16,8 +16,8 @@ This was done as a team effort, here is the team info:
 
 The project is submitted to:
 
-MD Shah Jalal\n
-Senior Lecturer
+MD Shah Jalal,</br>
+Senior Lecturer</br>
 Department of CSE, Daffodil International University
 
 ---
