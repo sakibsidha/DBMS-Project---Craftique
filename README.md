@@ -38,27 +38,23 @@ The database consists of multiple tables to support the functionality of the eCo
 
 ### 1. `users`
 - Stores user information such as names, emails, passwords (hashed), and roles.
-- Example columns: `user_id`, `name`, `email`, `password`, `role`.
 
 ### 2. `products`
 - Maintains details of the products available for purchase.
-- Example columns: `product_id`, `name`, `description`, `price`, `category_id`, `stock`.
 
 ### 3. `categories`
 - Categorizes products for better navigation.
-- Example columns: `category_id`, `category_name`.
 
 ### 4. `orders`
 - Tracks user orders and their statuses.
-- Example columns: `order_id`, `user_id`, `order_date`, `status`, `total_amount`.
 
 ### 5. `order_items`
 - Stores details of products included in each order.
-- Example columns: `order_item_id`, `order_id`, `product_id`, `quantity`, `price`.
 
 ### 6. `payments`
 - Records payment details for orders.
-- Example columns: `payment_id`, `order_id`, `payment_date`, `payment_method`, `amount`.
+
+There are total of 17 tables, 20+ procedures, 20+ triggers and 20+ views in the project. The project report demostrate them.
 
 ---
 
