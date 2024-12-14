@@ -1,4 +1,4 @@
-# eCommerce Website Database Project
+# Craftique - eCommerce Website Database Project
 
 This repository contains the MySQL database design and implementation for an eCommerce website. The project is part of a DBMS lab assignment, built using **MySQL** and managed via **XAMPP phpMyAdmin**.
 
