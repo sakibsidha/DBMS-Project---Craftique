@@ -124,7 +124,7 @@ SELECT p.Product_Name, c.Category_Name
 FROM product p 
 JOIN category c ON p.Category_ID = c.Category_ID;
 
--- 4. Find all products with a stock quantity of less than 10
+-- 4. Find products low in stock
 SELECT Product_Name, Stock 
 FROM product 
 WHERE Stock < 10;
@@ -288,6 +288,7 @@ JOIN `order` o ON c.Customer_ID = o.Customer_ID
 GROUP BY c.Customer_ID 
 ORDER BY Total_Orders DESC 
 LIMIT 1;
+
 
 Thank you for exploring this project!
 
